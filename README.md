@@ -1,6 +1,5 @@
-# Project Name
-> MELANOMA Classification
-
+# Deep Learning Model For MELANOMA Classification
+- Multiclass Classification
 
 ## Table of Contents
 * [General Info](#general-information)
